@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/PratikD115/pratik-D/main/name.svg" alt="Pratik Dholariya" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm Helin Devani</h1>
+<h1 align="center">Hi 👋, I'm Pratik Dholariya</h1>
 <h3 align="center">A passionate Web Developer and programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helindevani&label=Profile%20views&color=0e75b6&style=flat" alt="helindevani" /> </p>
@@ -17,11 +17,11 @@
 
 - 🤝 I’m looking for help with **Opensource Contributions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/helindevani](https://github.com/helindevani)
+- 👨‍💻 All of my projects are available at [https://github.com/PratikD115](https://github.com/PratikD115)
 
-- 💬 Ask me about **Java, C++, PHP, Data Structures And Algorithms, MySQL, JavaScript, HTML, CSS.**
+- 💬 Ask me about **Java, C++, Data Structures And Algorithms, MySQL, JavaScript, HTML, CSS, Django.**
 
-- 📫 How to reach me **helindevani111@gmail.com**
+- 📫 How to reach me **pratikdholariya97255@gmail.com**
 
 - ⚡ Fun fact **I Think Playing Chess That Will Be Use Devlop Our Mind In Logically Way.**
 
