@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **pratikdholariya97255@gmail.com**
 
-- ⚡ Fun fact **I Think Playing Chess That Will Be Use Devlop Our Mind In Logically Way.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/HelinDevani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HelinDevani1" height="30" width="40" /></a>
@@ -46,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=helindevani&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="helindevani"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikD115&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="helindevani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikD115&theme=chartreuse-dark&currStreakNum=red&fire=red" alt="PratikD115" /></p>
