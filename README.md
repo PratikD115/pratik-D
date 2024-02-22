@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=helindevani&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="helindevani" /></p>
+<p><img align="left" src="https://github-readme-stats-ten-navy.vercel.app/api/top-langs?username=PratikD115&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="helindevani" /></p>
 
 <p><img align="center" src="https://github-readme-stats-ten-navy.vercel.app/api?username=PratikD115&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="PratikD115"/></p>
 
